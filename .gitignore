@@ -1,1 +1,30 @@
+node_modules# Created by https://www.toptal.com/developers/gitignore/api/Vue,Nuxtjs
+# Edit at https://www.toptal.com/developers/gitignore?templates=Vue,Nuxtjs
+
+### NuxtJS ###
+# Generated dirs
+dist
+.nuxt
+.nuxt-*
+.output
+.gen
+
+# Node dependencies
 node_modules
+
+# System files
+*.log
+
+### Vue ###
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+# TODO: where does this rule come from?
+docs/_book
+
+# TODO: where does this rule come from?
+test/
+
+# End of https://www.toptal.com/developers/gitignore/api/Vue,Nuxtjs
+n
